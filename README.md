@@ -1,4 +1,4 @@
-# evolu-o-aprendizagem-Cubos-Academy
+# Evolução-aprendizagem-Cubos-Academy
 
 # Conteúdos a serem trabalhados nesse módulo:
 - Soft skills
